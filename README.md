@@ -1,5 +1,6 @@
 # EX-NO-4-IMPLEMETATION-OF-VIGENERE-CIPHER
- 
+## NAME: K NISHAL
+## REG NO: 2305001021
 
 ## AIM:
 
@@ -71,6 +72,8 @@ int main() {
 }
 ```
 ## OUTPUT
+
+<img width="507" height="250" alt="image" src="https://github.com/user-attachments/assets/454b71be-60ee-42ae-b25d-46da0718c8ce" />
 
 ## RESULT
 
